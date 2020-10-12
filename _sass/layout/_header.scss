@@ -7,7 +7,7 @@
 /* Header */
 
 	#header {
-		@include padding(5em, 0, (3em, 0, -5em, 0));
+		@include padding(5em, 0, (1em, 0, -5em, 0));
 
 		.logo {
 			display: block;
@@ -17,7 +17,7 @@
 			letter-spacing: _font(letter-spacing);
 			margin: 0 0 (_size(element-margin) * 1.25) 0;
 			text-decoration: none;
-			text-transform: uppercase;
+			text-transform: capitalize;
 			display: inline-block;
 
 			> * {
@@ -30,8 +30,8 @@
 
 				img {
 					display: block;
-					width: 2em;
-					height: 2em;
+					width: 15em;
+					height: 15em;
 				}
 			}
 		}
@@ -65,7 +65,7 @@
 						font-size: 0.8em;
 						font-weight: _font(weight-bold);
 						letter-spacing: _font(letter-spacing);
-						text-transform: uppercase;
+						text-transform: capitalize;
 					}
 
 					a[href="#menu"] {
