@@ -296,15 +296,15 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 <div class="box alt">
 <div class="row uniform">
 <div class="12u$"><span class="image fit"><img src="images/pic13.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.svg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.svg" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic01.svg" alt="" /></span></div>
 </div>
 </div>
 
