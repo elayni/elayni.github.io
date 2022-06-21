@@ -27,24 +27,7 @@
   <!-- Template Main CSS File -->
   <link href="css/style.css" rel="stylesheet">
 
-  <script> 
-    {
-      "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-      "description": "A scatterplot showing horsepower and miles per gallons that opens a Google search for the car that you click on.",
-      "data": {"url": "data/cars.json"},
-      "mark": "point",
-      "transform": [{
-        "calculate": "'https://www.google.com/search?q=' + datum.Name", "as": "url"
-      }],
-      "encoding": {
-        "x": {"field": "Horsepower", "type": "quantitative"},
-        "y": {"field": "Miles_per_Gallon", "type": "quantitative"},
-        "color": {"field": "Origin", "type": "nominal"},
-        "tooltip": {"field": "Name", "type": "nominal"},
-        "href": {"field": "url", "type": "nominal"}
-      }
-    }
-  </script>
+
 
   <!-- =======================================================
   * Template Name: MyResume - v4.1.0
@@ -63,25 +46,12 @@
     <section id="portfolio-details" class="portfolio-details">
       <div class="container">
 
-        <div class="row gy-4">
+        <div>
+          <iframe width="100%" height="505" frameborder="0"
+            src="https://observablehq.com/d/9228d2c8216ccc4f#cell-115">
+          </iframe>
+        </div>
 
-          <div class="col-lg-8">
-            <div class="portfolio-details-slider swiper-container">
-              <div class="swiper-wrapper align-items-center">
-
-                <div class="swiper-slide">
-                  <img src="img/portfolio/details/project2-details-1.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="img/portfolio/details/project2-details-2.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                  <img src="img/portfolio/details/project2-details-3.png" alt="">
-                </div>
-
-              </div>
               <div class="swiper-pagination"></div>
             </div>
           </div>
