@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Michael Scott Generator"
+excerpt: "Final project of the Natural Language Processing discipline of the Data Science and Artificial Intelligence course at the Federal University of Paraíba. Project hosted on HuggingFace. 1<br/><img src='/images/img_1.jpeg'>"
 collection: portfolio
 ---
 
