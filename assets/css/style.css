@@ -393,6 +393,13 @@ h6,
     padding-left: 0;
   }
 }
+@media (min-width: 768px) { /* Ajusta para telas médias e maiores */
+  .custom-col {
+    flex: 0 0 66.666667%;  /* 2/3 da tela */
+    max-width: 66.666667%;  /* 2/3 da tela */
+  }
+}
+
 
 .custom-navbar .navbar-brand {
   font-size: 1.7rem;
@@ -501,3 +508,36 @@ h6,
 .social a:hover {
   color: #000;
 }
+
+.sidebar {
+  width: 300px;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+}
+
+.profile-image {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.profile-name {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.profile-description, .profile-location {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+.nav-link {
+  color: purple; /* ou qualquer outra cor em hexadecimal, rgb, etc. */
+}
+
+.profile-description {
+  color: purple; /* ou qualquer outra cor em hexadecimal, rgb, etc. */
+}
+
+
