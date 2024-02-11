@@ -540,4 +540,13 @@ h6,
   color: purple; /* ou qualquer outra cor em hexadecimal, rgb, etc. */
 }
 
+/* You can add custom styles for your filters and portfolio items here */
+.filters a {
+  margin-right: 15px;
+  text-decoration: none;
+}
+.filters a.active {
+  font-weight: bold;
+}
+
 
