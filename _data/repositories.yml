@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - elayni
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - elayni/ruff_sperm_v2
+  - elayni/avian_FID_covid
+  - elayni/Exchange_behaviour_incubating_SESA
+  - elayni/RWLE_predation_timing
+  - elayni/Still_no_evidence
+  - elayni/many_analysts
