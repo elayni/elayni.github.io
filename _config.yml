@@ -183,12 +183,14 @@ plugins:
   - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-toc
   - jekyll-mermaid
+
 
 # Sitemap settings
 defaults:
