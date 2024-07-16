@@ -16,6 +16,9 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'jekyll-toc'  # Se você estiver usando este plugin para o TOC
+    gem 'faraday-retry'  # Para usar o middleware de retry do Faraday
+    gem 'jekyll-mermaid'  # Para a tag 'mermaid'
 end
 group :other_plugins do
     gem 'httparty'
