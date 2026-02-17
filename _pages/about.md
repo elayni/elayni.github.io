@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:  Data Science, artificial intelligence, images.
+subtitle:  Data Scientist | Machine Learning & Personalization
 profile:
   align: right
   image: elayni.jpg
@@ -14,10 +14,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am passionate about technology and a fervent enthusiast of tech communities. Currently, I'm pursuing my undergraduate degree in Data Science at the Federal University of Paraíba. I have experience in Remote Sensing, OCR, machine learning, and deep learning, utilizing tools such as Python, Tensorflow, Pytorch, and SQL.
+I am a Data Scientist with over 4 years of experience building scalable, production-ready solutions that drive customer engagement and business growth. My expertise lies in bridging the gap between complex statistical modeling and actionable product strategies.
 
-I am keen on applying advanced data analysis and machine learning techniques to solve complex problems and generate meaningful insights. Furthermore, I actively participate in technology communities, attending events, and sharing knowledge.
+I specialize in developing end-to-end forecasting and recommendation engines, utilizing robust cloud ecosystems like AWS and Azure. I have a proven track record of optimizing delivery timelines and enhancing lead conversion through rigorous $A/B$ testing and advanced segmentation.
 
-As a proactive, organized, and results-oriented individual, I possess effective communication and teamwork skills. I am consistently seeking professional development opportunities and am eager to contribute to data science projects.
+Core Competencies & Impact
+- *Machine Learning Lifecycle:* Full-cycle experience from EDA and hypothesis testing to $A/B$ frameworks and model deployment.
+- *Scalable Data Engineering:* Building high-performance APIs with FastAPI and managing containerized environments using Docker and Kubernetes.
+- *Strategic Forecasting:* Developing end-to-end solutions for the CPG sector to optimize executive decision-making and delivery timelines.
+- *Technical Leadership:* Active mentor in the PyLadies community, promoting diversity and technical growth within the data science ecosystem.
 
-I am open to discussing more about my experience and how I can contribute to your project or organization.
+I hold a B.S. in Data Science and Artificial Intelligence from the Federal University of Paraíba (UFPB). I am passionate about leveraging data to solve high-stakes problems and am open to relocation for the right global challenge.
